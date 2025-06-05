@@ -29,13 +29,14 @@ Desenvolver um sistema físico baseado em Arduino capaz de:
 ### 🎥 Vídeo Demonstrativo
 
 📺 **Assista ao funcionamento do sistema aqui:**  
-[LINK DO VÍDEO AQUI – YouTube ou Drive]
+https://fiapcom-my.sharepoint.com/:v:/g/personal/rm562098_fiap_com_br/Eee-wcSgGGlNqZwpitXJG6kB5_3SwzpXHR3sWKQFWZ8xyQ?e=0IFfKm
 
 ---
 
 ### 🖼️ Esquema do Circuito
 
-(Insira aqui uma imagem ilustrativa do circuito montado – pode ser exportada do Wokwi/Tinkercad)
+![image](https://github.com/user-attachments/assets/51a3934a-2f50-48fd-8a48-c4b8fe07b421)
+
 
 ---
 
