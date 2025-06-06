@@ -5,6 +5,23 @@
 
 ---
 
+## 📜 **Licença**  
+MIT License - **Use livremente em sua adega!**  
+
+**Desenvolvido por Veltrix**
+
+**Integrantes:** 
+
+RM:565191 Nome: Gabriel Akira
+
+RM:561820 Nome: Gustavo Santos
+
+RM:556645 Nome: Mauro Carlos
+
+RM:562098 Nome: Ana Luiza Tibiriçá
+
+---
+
 ## 📌 Identificação do Problema
 
 Eventos climáticos extremos têm causado **enchentes frequentes em áreas urbanas e de risco**. Esses alagamentos colocam em perigo **vidas humanas, propriedades e infraestrutura pública**.  
