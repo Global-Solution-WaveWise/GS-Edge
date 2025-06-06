@@ -71,7 +71,7 @@ O potenciômetro simula o nível da água. O sistema reage com diferentes sinais
 ### ✅ Passos para rodar no Tinkercad/Wokwi:
 
 1. Acesse o link do projeto abaixo:
-   - 🔗 [Link do Projeto no Simulador](LINK_DO_PROJETO)
+   - 🔗 [Link do Projeto no Simulador](https://www.tinkercad.com/things/6RU3U7xzf2b-gs-global-solution?sharecode=Sz790np2m1U1eEdqHxR4Y2slnW-s-hlZ9TqtwgVuQTU)
 2. Clique em **"Start Simulation"**
 3. Gire o potenciômetro para simular o aumento do nível da água
 4. Observe o comportamento dos LEDs, buzzer e LCD
